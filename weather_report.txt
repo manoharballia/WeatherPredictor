@@ -1,0 +1,6 @@
+Location | Position | Local Time | Conditions | Temperature | Pressure | Humidity
+Sydney|-33.86514, 151.2099|2016-09-03 23:41:35|Clear|51.78|1017.49|0.7
+Perth|-31.95351, 115.8570|2016-09-03 23:41:36|Partly Cloudy|52.04|1021.91|0.75
+Darwin|-12.46283, 130.8418|2016-09-03 23:41:38|Drizzle|79|1012.3|0.79
+Albury|-36.08078, 146.9165|2016-09-03 23:41:40|Mostly Cloudy|40.87|1019.39|0.99
+Canberra|-35.34378, 149.0830|2016-09-03 23:41:41|Mostly Cloudy|41.49|1018.11|0.87
