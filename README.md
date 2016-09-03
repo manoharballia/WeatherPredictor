@@ -43,6 +43,6 @@ Steps to installation:
 
 9. To check the output run below command:
 
-10.cat weather_report.txt
+10. cat weather_report.txt
 
 You are done  :)
