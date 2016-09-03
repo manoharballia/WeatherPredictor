@@ -6,7 +6,9 @@ This project can be used to retrieve a weather type, humidity ,pressure etc for 
 project internally uses forecast API to retrieve these data points and the code base is implemented and tested in R version 3.3.1 on MAC OS.
 
 Steps to installation:
+
 1. This project has been written in R , So you need to install R in your machine.
+
 2. Get the Forecast API by registering with your email id from below link:
   https://developer.forecast.io/register
   After you register and sig-in you can get a API(encrypted 32 alphanumeric character in length)
